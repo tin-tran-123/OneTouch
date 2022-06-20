@@ -1,2 +1,2 @@
-# OneTouch
+OneTouch
 Người mang sứ mệnh
